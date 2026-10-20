@@ -1,0 +1,21 @@
+# DHS and derived individual-level survey data: do not publish
+*.dta
+*.sav
+*.csv
+*.xlsx
+*.xls
+*.sas7bdat
+*.dat
+*.zip
+
+# Stata and derived analysis outputs
+outputs/
+*.smcl
+*.log
+*.gph
+*.dta~
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
